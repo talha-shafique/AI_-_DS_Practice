@@ -1,2 +1,2 @@
 # AI_n_DS_Practice
-Git &amp; Github Basic Learning
+Git &amp; Github Basics
